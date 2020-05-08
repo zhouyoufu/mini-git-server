@@ -36,7 +36,7 @@ limitations under the License.
 
     <properties>
         <jgitVersion>0.10.99.7-UNOFFICIAL-ROBERTO-RELEASE</jgitVersion>
-        <slf4jVersion>1.6.1</slf4jVersion>
+        <slf4jVersion>1.7.30</slf4jVersion>
         <guiceVersion>2.0</guiceVersion>
         <jettyVersion>7.2.1.v20101111</jettyVersion>
         <project.reporting.outputEncoding>
